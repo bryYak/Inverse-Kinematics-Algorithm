@@ -7,7 +7,7 @@
 	All code utilized is public and may be distributed.
 
 
-	@author Bryan Yakimisky, ARC
+	@author Bryan M Yakimisky, ARC
 	@version 0.1.1; September 18th, 2020
 
 
